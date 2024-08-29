@@ -1,4 +1,4 @@
-Studying Software Development. Currently using C#, JacvaScript, SQL, HTML, CSS, NodeJS., .Net Framework.  
+Studying Software Development. Currently using .Net Framework, C#, JacvaScript, SQL, HTML, CSS, NodeJS.  
 
 
 <!---
