@@ -1,4 +1,3 @@
-name : GitHub_Actions
 on:
   push: 
     branches: 
