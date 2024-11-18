@@ -12,6 +12,7 @@ jobs:
           if: failure()
           run: | 
             curl -X POST -H "Content-Type: application/json"\ -d '{"status" : "Build failed"}' \
+            https://66f8-105-186-107-221.ngrok-free.app -> http://localhost:8080
   test: 
       runs-on: ubuntu-latest
       needs: build
